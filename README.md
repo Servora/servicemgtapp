@@ -1,8 +1,8 @@
-# Stellar Service and Management
+# ServiceManagementApp
 
 ## Overview
 
-Stellar Service and Management is a dynamic platform designed to simplify the process of connecting service providers with consumers. It addresses common challenges such as finding reliable providers, assessing service quality, and managing bookings efficiently. By creating a centralized marketplace, the platform makes it easy for consumers to browse various services and select those that best meet their needs.
+ServiceManagementApp is a dynamic platform designed to simplify the process of connecting service providers with consumers. It addresses common challenges such as finding reliable providers, assessing service quality, and managing bookings efficiently. By creating a centralized marketplace, the platform makes it easy for consumers to browse various services and select those that best meet their needs.
 
 ## Key Features
 
